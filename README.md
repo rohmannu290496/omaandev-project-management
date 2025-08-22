@@ -1,8 +1,8 @@
 # Project Management
 
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/dewakoding-project-management/refs/heads/main/image-1.jpeg)
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/dewakoding-project-management/refs/heads/main/image-4.jpeg)
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/dewakoding-project-management/refs/heads/main/image-5.jpeg)
+![image](https://raw.githubusercontent.com/rohmannu290496/omaandev-project-management/refs/heads/main/image-1.jpeg)
+![image](https://raw.githubusercontent.com/rohmannu290496/omaandev-project-management/refs/heads/main/image-4.jpeg)
+![image](https://raw.githubusercontent.com/rohmannu290496/omaandev-project-management/refs/heads/main/image-5.jpeg)
 
 A Laravel Filament 3 application for managing projects with ticket management and status tracking.
 
@@ -31,19 +31,19 @@ A Laravel Filament 3 application for managing projects with ticket management an
 - MySQL 8.0+ / PostgreSQL 12+
 - Composer
 
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/dewakoding-project-management/refs/heads/main/image-2.jpeg)
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/dewakoding-project-management/refs/heads/main/image-6.jpeg)
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/dewakoding-project-management/refs/heads/main/image-7.jpeg)
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/dewakoding-project-management/refs/heads/main/image-8.jpeg)
-![image](https://raw.githubusercontent.com/SeptiawanAjiP/dewakoding-project-management/refs/heads/main/image-9.jpeg)
+![image](https://raw.githubusercontent.com/rohmannu290496/omaandev-project-management/refs/heads/main/image-2.jpeg)
+![image](https://raw.githubusercontent.com/rohmannu290496/omaandev-project-management/refs/heads/main/image-6.jpeg)
+![image](https://raw.githubusercontent.com/rohmannu290496/omaandev-project-management/refs/heads/main/image-7.jpeg)
+![image](https://raw.githubusercontent.com/rohmannu290496/omaandev-project-management/refs/heads/main/image-8.jpeg)
+![image](https://raw.githubusercontent.com/rohmannu290496/omaandev-project-management/refs/heads/main/image-9.jpeg)
 
 
 ## Installation
 
 1. Clone the repository:
    ```
-   git clone https://github.com/SeptiawanAjiP/dewakoding-project-management
-   cd dewakoding-project-management
+   git clone https://github.com/rohmannu290496/omaandev-project-management
+   cd omaandev-project-management
    ```
 
 2. Install dependencies:
@@ -63,7 +63,7 @@ A Laravel Filament 3 application for managing projects with ticket management an
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE=dewakoding_project_management
+   DB_DATABASE=omaandev_project_management
    DB_USERNAME=root
    DB_PASSWORD=
    ```
